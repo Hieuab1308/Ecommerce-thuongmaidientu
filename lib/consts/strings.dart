@@ -11,6 +11,7 @@ const nameHint = "Admin";
 const forgetPass = "Quên mật khẩu";
 const login = "Login";
 const signup = "Sign up";
+const logout = "Log out";
 const createNewAccount = "hoặc, tạo tài khoản mới";
 const loginWith = "Login with";
 const privacyPolicy = "Chính sách bảo mật";
@@ -48,3 +49,14 @@ const menClothingFashion = "Quần Áo & Thời Trang Nam",
     workwear ="Trang phục và dụng cụ công nhân ",
     furniture = "Nội Thất";
 
+//item details
+const video = "Video",
+    reviews = "Đánh giá",
+    sellerpolicy = "Chính sách người bán",
+    returnpolity = "Chính sách đổi trả",
+    supportPolicy = "Chính sách hỗ trợ",
+    productsyoumaylike = "Sản phẩm bạn có thể thích";
+
+
+// profile
+const wishlist = "Danh sách yêu thích", orders = "Đơn hàng của tôi", messagse = "Tin nhắn", wallet = "Ví của tôi", points = "Điểm thưởng", refunds = "Yêu cầu hoàn tiền";
